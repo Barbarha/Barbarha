@@ -1,15 +1,23 @@
+#
+<div> 
+  <p align="center">
+    <img src="https://media1.tenor.com/m/c6gKyfu4E_4AAAAd/typing-hello-kitty.gif" height="600" width="1200">
+  </p>
+</div>
+#
+
 <h1 align="center">Olá! Eu sou Barbarha Monteiro 💖</h1>
 
 <p align="center">
   🌸 Estudante de TI <br>
   🌱 Atualmente aprendendo Front-End & Back-End <br>
-  💼 Em busca de oportunidades para crescer como desenvolvedor(a) <br>
+  💼 Em busca de oportunidades para crescer como desenvolvedora <br>
 </p>
 
 ---
 
 ### 💻 Tecnologias que uso ou estudo:
-<p>
+<p align="center">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/-HTML-e26aa5?style=flat&logo=html5&logoColor=white" />
   </a>
@@ -34,16 +42,18 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=tokyonight&icon_color=ffbde1&title_color=ff8dc7&text_color=ffffff&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=tokyonight&title_color=ff8dc7&text_color=ffffff&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=**SEU_USERNAME_AQUI**&show_icons=true&theme=tokyonight&icon_color=ffbde1&title_color=ff8dc7&text_color=ffffff&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=**SEU_USERNAME_AQUI**&layout=compact&theme=tokyonight&title_color=ff8dc7&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 ---
 
 ### 📫 Onde me encontrar:
-<p>
-  <a href="https://www.linkedin.com/in/seulinkedin" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/barbarha-monteiro-537b46347" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-e26aa5?style=flat&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:barbarhamonteiro@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-f7c9e3?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
