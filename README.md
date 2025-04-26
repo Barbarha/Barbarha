@@ -4,7 +4,6 @@
   🌸 Estudante de TI <br>
   🌱 Atualmente aprendendo Front-End & Back-End <br>
   💼 Em busca de oportunidades para crescer como desenvolvedor(a) <br>
-  ☕ Amo codar com um café ao lado
 </p>
 
 ---
