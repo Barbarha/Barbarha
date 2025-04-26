@@ -10,13 +10,12 @@
 
 <p align="center">
   🌸 Estudante de TI <br>
-  🌱 Atualmente aprendendo Front-End & Back-End <br>
+  🎀 Atualmente aprendendo Front-End & Back-End <br>
   💼 Em busca de oportunidades para crescer como desenvolvedora <br>
 </p>
 
 ---
 
-### 💻 Tecnologias que uso ou estudo:
 <p align="center">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/-HTML-e26aa5?style=flat&logo=html5&logoColor=white" />
@@ -40,7 +39,6 @@
 
 ---
 
-### 📊 GitHub Stats:
 <div align="center">
   <a href="https://github.com/Barbarha">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barbarha&show_icons=true&theme=tokyonight&title_color=ff8dc7&icon_color=ff8dc7&text_color=ffffff&bg_color=0d1117"/>
@@ -51,7 +49,7 @@
 </div>
 ---
 
-### 📫 Onde me encontrar:
+🎀 Onde me encontrar:
 <p align="center">
   <a href="https://www.linkedin.com/in/barbarha-monteiro-537b46347" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-e26aa5?style=flat&logo=linkedin&logoColor=white" />
