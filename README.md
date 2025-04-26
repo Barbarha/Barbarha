@@ -42,10 +42,13 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=**SEU_USERNAME_AQUI**&show_icons=true&theme=tokyonight&icon_color=ffbde1&title_color=ff8dc7&text_color=ffffff&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=**SEU_USERNAME_AQUI**&layout=compact&theme=tokyonight&title_color=ff8dc7&text_color=ffffff&bg_color=0d1117" />
+  <a href="https://github.com/Barbarha">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barbarha&show_icons=true&theme=tokyonight&title_color=ff8dc7&icon_color=ff8dc7&text_color=ffffff&bg_color=0d1117"/>
+  </a>
+  <a href="https://github.com/Barbarha">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbarha&layout=compact&theme=tokyonight&title_color=ff8dc7&text_color=ffffff&bg_color=0d1117"/>
+  </a>
 </div>
-
 ---
 
 ### 📫 Onde me encontrar:
@@ -55,5 +58,11 @@
   </a>
   <a href="mailto:barbarhamonteiro@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-f7c9e3?style=flat&logo=gmail&logoColor=white" />
+  </a>
+ <a href="https://www.instagram.com/b.mont3iro/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-fab0da?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/babilinda" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-eab5d6?style=flat&logo=discord&logoColor=white" />
   </a>
 </p>
